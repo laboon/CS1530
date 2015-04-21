@@ -1,6 +1,10 @@
 # Syllabus - Summer 2015
 CS1530: Software Engineering
 
+# Required Books
+Growing Object-Oriented Software, Guided by Tests
+Code Complete, Second Edition
+
 ## WEEK 1
 
 ### Class 1 - Introduction: What is Software Engineering?
