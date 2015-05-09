@@ -53,7 +53,6 @@ Code Complete, Second Edition
 #### __Reading: Freeman/Pryce, Chapters 4 - 6__
 #### __DUE: Deliverable 2__
 #### __ASSIGNED: Deliverable 3 - First Sprint__
-* 
 
 ### Class 2 - Software Design
 #### __Reading: McConnell, Chapters 4 -5 and Freeman/Pryce, Chapter 7__
