@@ -21,8 +21,7 @@ CS1530: Software Engineering
 * Progamming language paradigms: structured, imperative, object-oriented, logical, etc.
 
 ### Class 4 - Requirements, Estimates, Plans
-#### __Reading: Brooks, "Why Did the Tower of Babel Fall?"__
-#### __DUE: Deliverable 1__
+#### __DUE: Group / Project Selection__
 * Why these are necessary?
 * Developing good requirements
 * Estimating, including pitfalls
@@ -31,7 +30,7 @@ CS1530: Software Engineering
 ## WEEK 3
 
 ### Class 1 - Agile Development: Theory and Practice
-#### __ASSIGNED: Deliverable 2: Initial User Stories and Scenarios__
+#### __START SPRINT 1__
 #### __Reading: The Agile Manifesto__
 * User stories / scenarios
 * Sprints
@@ -47,14 +46,12 @@ CS1530: Software Engineering
 
 ### Class 1 - Software Engineering with TDD
 #### __Reading: Freeman/Pryce, Chapters 4 - 6__
-#### __DUE: Deliverable 2__
-#### __ASSIGNED: Deliverable 3 - First Sprint__
 * 
 
 ### Class 2 - Software Design
 #### __Reading: McConnell, Chapters 4 -5 and Freeman/Pryce, Chapter 7__
 * Top-down vs bottom-up
-* Architecture Models (simple, client-server, n-tier, etc.)
+* Architecture Models (simple, layered, client-server, n-tier, Big Ball of Mud, etc.)
 
 ## WEEK 5
 
@@ -62,16 +59,17 @@ CS1530: Software Engineering
 * Breaking down a project into objects
 * Design patterns
 
-### Class 2 - Documentation
-#### __ASSIGNED: Deliverable 4 - Second Sprint__
-#### __DUE: Deliverable 3 - First Sprint__
+### Class 2 - Object-Oriented Analysis and Design (cont'd), Documentation
+#### __SPRINT 1 ENDS, SPRINT 2 STARTS__
 * Writing proper technical documentation
 * When is it necessary?  When is it more trouble than it's worth?
+* Making Architetural Diagrams
 
 ## WEEK 6
 
 ### Class 1
 __MIDTERM__
+* Pair Programming Exercise
 
 ### Class 2 - Integration and the Software Pipeline
 * Classical models of integration
@@ -84,8 +82,7 @@ __MIDTERM__
 * The QA process and why it is important
 
 ### Class 2 - Quality Assurance and Quality Software, Cont'd.
-#### __ASSIGNED: Third Sprint__
-#### __DUE: Second Sprint__
+#### __SECOND SPRINT ENDS, THIRD SPRINT STARTS__
 * QA implementation as part of the SDLC
 
 ## WEEK 8
@@ -101,22 +98,21 @@ __MIDTERM__
 
 ### Class 1 - Software Maintenance, Evolution, and Refactoring
 
-### Class 2 - Stakeholder Interaction
-#### __ASSIGNED: Fourth Sprint__
-#### __DUE: Third Sprint__
+### Class 2 - Legacy Code and Large Systems
+#### THIRD SPRINT ENDS, FINAL SPRINT STARTS
 
 ## WEEK 10
 
-### Class 1 - Project Management
+### Class 1 - Designing Secure Software
 
-### Class 2 - Product Management
+### Class 2 - Project and Product Management
 
 ## WEEK 11
 
-### Class 1 - Legacy Code and Large Systems
+### Class 1 - Case Study: Trade-Offs in Software Engineering
 
-### Class 2 - Soft Skills
-#### __DUE: Fourth Sprint__
+### Class 2 - Stakeholder Interaction and Soft Skills
+#### __FINAL SPRINT ENDS - FINAL DELIVERABLE DUE__
 
 ## WEEK 12
 
