@@ -3,6 +3,7 @@ CS1530: Software Engineering
 
 # Required Books
 Growing Object-Oriented Software, Guided by Tests
+
 Code Complete, Second Edition
 
 The Mythical Man-Month is available online at the Internet Archive: [https://archive.org/details/mythicalmanmonth00fred](https://archive.org/details/mythicalmanmonth00fred)
