@@ -22,12 +22,12 @@ The Mythical Man-Month is available online at the Internet Archive: [https://arc
 
 ## WEEK 2
 
-### Class 3 - Software Engineering Methodologies
+### Class 1 - Software Engineering Methodologies
 #### __Reading: McConnell, Chapters 1 - 3__
 * Waterfall (BDUF), prototyping, incremental, RAD, UP, "Cowboy coding"
 * Progamming language paradigms: structured, imperative, object-oriented, logical, etc.
 
-### Class 4 - Requirements, Estimates, Plans
+### Class 2 - Requirements, Estimates, Plans
 #### __DUE: Group / Project Selection__
 * Why these are necessary?
 * Developing good requirements
@@ -42,6 +42,7 @@ The Mythical Man-Month is available online at the Internet Archive: [https://arc
 * User stories / scenarios
 * Sprints
 * Scrums
+* User Story Exercise
 
 ### Class 2 - Introduction to Test-Driven Development (TDD)
 #### __Reading: Freeman/Pryce, Chapters 1 - 3__
