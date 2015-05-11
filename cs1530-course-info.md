@@ -17,6 +17,8 @@ Growing Object-Oriented Software, Guided by Tests.  Authors: Steve Freeman and N
 
 Code Complete (Second Edition). Author: Steve McConnell. ISBN 0790145196705
 
+Online essays/articles will also be assigned.
+
 **
 
 This course provides students with a broad understanding of modern software engineering. Although it will cover theory, the emphasis is on providing practical skills in software engineering currently used in industry. To that end, it will cover project and product management, software architecture and design patterns, team communications, and other material relevant to __engineering__ software instead of just __coding__ it.

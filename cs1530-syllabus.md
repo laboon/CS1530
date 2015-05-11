@@ -5,6 +5,8 @@ CS1530: Software Engineering
 Growing Object-Oriented Software, Guided by Tests
 Code Complete, Second Edition
 
+The Mythical Man-Month is available online at the Internet Archive: [https://archive.org/details/mythicalmanmonth00fred](https://archive.org/details/mythicalmanmonth00fred)
+
 ## WEEK 1
 
 ### Class 1 - Introduction: What is Software Engineering?
@@ -12,6 +14,7 @@ Code Complete, Second Edition
 
 ### Class 2 - Overview: Designing a Software Product
 #### __Reading: Brooks, "The Tar Pit" and Brooks, "The Mythical Man-Month" (just the essay, not the entire book)__
+
 #### __ASSIGNED: Deliverable 1, Group/Project Selection__
 * Overview of the Software Development Life Cycle
 * Cathedral and the Bazaar
