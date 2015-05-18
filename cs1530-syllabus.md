@@ -23,27 +23,21 @@ The Mythical Man-Month is available online at the Internet Archive: [https://arc
 
 ## WEEK 2
 
-### Class 1 - Software Engineering Methodologies
+### Class 1 - An Overview of Software Engineering Methodologies
 #### __Reading: McConnell, Chapters 1 - 3__
-* Waterfall (BDUF), prototyping, incremental, RAD, UP, "Cowboy coding"
-* Progamming language paradigms: structured, imperative, object-oriented, logical, etc.
+* Waterfall (BDUF), prototyping, incremental, RAD, UP, "Cowboy coding", Agile
+* Our Methodology: Agile with TDD
 
-### Class 2 - Requirements, Estimates, Plans
+### Class 2 - Agile Development: Theory and Practice
+#### __Reading: "Manifesto for Agile Software Development", http://agilemanifesto.org/
 #### __DUE: Group / Project Selection__
-* Why these are necessary?
-* Developing good requirements
-* Estimating, including pitfalls
-* Developing a software development plan
+#### __START SPRINT 1__
+* Terminology - Sprints, scrums, kanban, retrospective, etc.
 
 ## WEEK 3
 
-### Class 1 - Agile Development: Theory and Practice
-#### __START SPRINT 1__
-#### __Reading: The Agile Manifesto__
-* User stories / scenarios
-* Sprints
-* Scrums
-* User Story Exercise
+### Class 1 - 
+__NO CLASS - MEMORIAL DAY__
 
 ### Class 2 - Introduction to Test-Driven Development (TDD)
 #### __Reading: Freeman/Pryce, Chapters 1 - 3__
@@ -55,7 +49,6 @@ The Mythical Man-Month is available online at the Internet Archive: [https://arc
 
 ### Class 1 - Software Engineering with TDD
 #### __Reading: Freeman/Pryce, Chapters 4 - 6__
-* 
 
 ### Class 2 - Software Design
 #### __Reading: McConnell, Chapters 4 -5 and Freeman/Pryce, Chapter 7__
