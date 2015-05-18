@@ -136,6 +136,19 @@
   * More heavyweight than some, although still very lightweight
   * Adaptive vs prescriptive schedule estimation
 
+## CMMI
+
+* The Capability Maturity Model Integration (successor to CMM, which was software-specific)
+
+* Appraises  how your company follows processes - NOT a process in and of itself!
+
+* Maturity Levels
+  * Initial - Processes are unpredictable, ad hoc (where you start)
+  * Managed - Processes is defined and characterized for projects (CMM term: Repeatable).  The proces is at least documented.
+  * Defined - Processes is defined and characterized for the organization.
+  * Quantitatively Defined - Processes measured and controlled (CMM term: Managed).  There are metrics that can allow one to know how well the processes are working.
+  * Optimizing - Focus is on process improvement
+
 # Our Paradigm - Agile with TDD
 
 * Note - "Agile" is a very argued-over term!  See the Agile Manifesto for the original - this has been modified/specified/etc. into lots of different processes.
