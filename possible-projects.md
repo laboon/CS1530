@@ -6,7 +6,7 @@
 4. Poker game analysis tool (customer: a professional poker player)
 5. An NLP project dealing with semantic distance  (customer: a lead developer for a national newspaper)
 6. App to find local playgrounds (customer: a local designer)
-7. An app to help gardeners to plan/keep track of plants (customer: a school teacher in Cleveland)
+7. ~~An app to help gardeners to plan/keep track of plants (customer: a school teacher in Cleveland)~~
 8. Progress tracking software for a local business (customer: local entrepreneur and lawyer)
 9. Work on Commotion mesh network router (customer: Open Technology Institute)
 10. Internet measurement and visualization research (customer: Open Technology Institute)
