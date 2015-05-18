@@ -5,8 +5,8 @@
 * These are numerous, but I think it's more important to have deep knowledge of one as opposed to broad knowledge of many.  That being said, you should know the basics, especially the terms: cowboy, waterfall, spiral, prototyping, iterative and incremental, agile
 
 * There are __lightweight__ and __heavyweight__ methodologies.
-** Lightweight have few rules, more flexibility, less documentation
-** Heavyweight have more rules, less flexibility, more documentation
+  * Lightweight have few rules, more flexibility, less documentation
+  * Heavyweight have more rules, less flexibility, more documentation
 
 ## Cowboy Coding
 
