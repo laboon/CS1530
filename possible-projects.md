@@ -14,3 +14,4 @@
 12. Visualization and analysis of Dog Ownership in a city (similar to http://project.wnyc.org/dogs-of-nyc/mobile.html) (customer: professor at Pace University)
 13. Coffee-specific import and inventory tracking system (customer: coffee farm owner who imports coffee to Pittsburgh)
 14. A CRM / contact site for insurance (customer: local insurance salesman)
+15. An Android-based timer for the Pitt ophthalmology lab
