@@ -8,6 +8,7 @@ Summer Semester 2015
 For the first sprint, each group will need to determine initial user stories for the project, write a walking skeleton of the application, and determine a test plan and prioritization of user stories.  Additionally, you will turn in a Deliverable with all of this information and how you decided upon the prioritization, test plan, user stories, etc.
 
 Teams should contain at least one person (multiple people can have the same role)  for each of the following roles:
+
 1. Project Owner / Scrum Master - Focuses on deadlines, prioritization, and ensuring the software meets the needs of the customer.  Often the "point person" between the customer and the rest of the group.
 2. Software Developer - Focuses on developing the software.
 3. Quality Assurance Manager - Focuses on assuring the quality of the software, mainly through tests.
