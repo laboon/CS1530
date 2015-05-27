@@ -48,7 +48,7 @@ public void testEqualEmptyLinkedList() {
 * Stubs
   * Fake methods or functions
 
-* Verification
+* Expectation / Verification
   * Verify that a method has been called 0, 1, or n times
 
 * Why use these techniques?
@@ -71,13 +71,72 @@ public void testEqualEmptyLinkedList() {
   * Red - write tests that immediately fail
   * Green - Write code to make tests pass
   * Refactor - Fix up code to make it better
+  * The Golden Rule - "Never write new functionality without a failing test."
   * "First make it green, then make it clean"
+
+* The best way to do this:
+  * Acceptance test -> multiple unit tests underneath
 
 * KISS -> Keep it simple, stupid
 
 * Fake it 'til you make it -> Methods do not have to be completed, but tests need to pass, in each iteration
 
 * YAGNI -> You ain't gonna need it.  Don't throw in extra code or do more design than necessary.
+
+# Baking Quality Into The System
+
+* External quality: Quality of system as seen by the user (is it functional? reliable? usable?)  
+  * Manual testing and acceptance testing can catch this more easily.
+  * Unit testing or code inspection, much harder.
+
+* Internal quality.  Quality of system as seen by development team.
+  * Unit testing or code inspection can catch this more easily.
+  * Acceptance testing and manual testing, much harder.
+
+# Proper Object-Oriented Design
+
+* Note - we will be discussing these more later in the semester in the lectures on Object-Oriented Analysis and Design.  Consider this a sneak peek!
+
+* Coupling - Classes are coupled if a change in one class means a change in another.  
+  * Can often be ameliorated via the Law of Demeter! (Tell, don't ask)
+
+Example of highly coupled code:
+
+```
+DogFactorySingleton.getDogInstance("Fido").getFace().getJawMuscleSet().contractMuscles(7, 13);
+```
+
+Example of loosely coupled code.  Note how much is hidden.  "Tell" the dog to bite, don't ask for the face so that you can ask for the jaw muscles so that you can tell THEM what to do.
+
+```
+dog.bite("Person");
+```
+
+
+* Cohesion - Classes whose methods/attributes form a meaningful unit are cohesive.  
+
+Example of highly cohesive class:
+
+```java
+public class Bird {
+  public void chirp() { ... }
+  public void fly(int xLocation, int yLocation) { ... }
+  public String getBirdType() { ... }
+  public int getNumTimesChirped() { ... }
+}
+
+```
+
+Example of a low cohesion class:
+
+```java
+public class Stuff {
+  public void printOutGrades() { ... }
+  public int multiplyTwoIntegers(int first, int second) { ... }
+  public char drinkSodaPop(String sodaType) { ... }
+}
+```
+
 
 * Slides on TDD for Testing class: https://github.com/laboon/CS1699/blob/master/pdf-lectures/lecture10_test_driven_development.pdf
 
