@@ -61,5 +61,6 @@ for (int j=0; j < NUM_FEATURES; j++) {
   * Information Hiding - you don't even know those things exist!
     * Allows you to work at higher abstraction
   * Remember that calling a method IS literally calling it!  You are "sending a message" with some parameters
+  * Postel's Principle - Be liberal in what you accept, and conservative in what you send
 
   
