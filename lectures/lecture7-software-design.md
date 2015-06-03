@@ -41,11 +41,19 @@
     * Henney's Corollary "...except for the problem of too many layers of indirection."
     * Fun fact: David Wheeler was the first person in the world to get a PhD in computer science
 
-* If possible, map from real world
-  * Example: Super Mario Brothers video game
-    * User Interface: controller input, screen output
-    * World: contains one instance of Mario, instances of Question Mark block, Brick Block, Goombas, etc.
-    * Data Storage: Stored level info, saved games, high scores, etc.
+* Listing of Design Heuristics
+  * If possible, map from real world
+    * Example: Super Mario Brothers video game
+      * User Interface: controller input, screen output
+      * World: contains one instance of Mario, instances of Question Mark block, Brick Block, Goombas, etc.
+      * Data Storage: Stored level info, saved games, high scores, etc.
+  * Be consistent when creating abstractions
+  * Encapsulate Implementation Details
+  * Information Hiding
+  * Identify areas where change is likely
+  * Loose coupling, high cohesion
+  * Use standardized language
+  * Use common design patterns
 
 * Avoid leaky abstractions!
   * If you need to know about the innards of a class, this is a fail
