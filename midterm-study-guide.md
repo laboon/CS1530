@@ -59,7 +59,11 @@ __Reminder: Midterm is 15 June!  We will also have a pair programming exercise t
   8. Microkernel
   9. Big Ball of Mud
 17. Object-Oriented Analysis
-  0. DRY 
+  0. UML
+    1. Class diagram
+    2. Sequence Diagram
+    3. Use Case Diagram
+  1. DRY 
   1. SOLID Principles
     1. Single Responsibility Principle
     2. Open Close Principle
@@ -67,7 +71,6 @@ __Reminder: Midterm is 15 June!  We will also have a pair programming exercise t
     4. Interface Segregation Principle
     5. Dependency Inversion Principle
   2. Drawbacks from using SOLID Principles?
-  3. Know what UML is and what it stands for
 18. Design Patterns
   1. Singleton
   2. Factory
@@ -81,6 +84,3 @@ __Reminder: Midterm is 15 June!  We will also have a pair programming exercise t
   8. Null Object
   9. Flyweight
   10. Decorator
-  
-
-  
