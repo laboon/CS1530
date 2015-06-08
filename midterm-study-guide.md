@@ -62,7 +62,6 @@ __Reminder: Midterm is 15 June!  We will also have a pair programming exercise t
   0. UML
     1. Class diagram
     2. Sequence Diagram
-    3. Use Case Diagram
   1. DRY 
   1. SOLID Principles
     1. Single Responsibility Principle
