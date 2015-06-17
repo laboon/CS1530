@@ -71,6 +71,7 @@ __Reminder: Midterm is 15 June!  We will also have a pair programming exercise t
     5. Dependency Inversion Principle
   2. Drawbacks from using SOLID Principles?
 18. Design Patterns
+  0. Utility pattern
   1. Singleton
   2. Factory
   3. Decorator
