@@ -106,6 +106,7 @@ __MIDTERM__
 ## WEEK 10
 
 ### Class 1 - Designing Secure Software
+* Secure Software Class Exercise
 
 ### Class 2 - Project and Product Management
 
@@ -114,6 +115,7 @@ __MIDTERM__
 ### Class 1 - Case Study: Trade-Offs in Software Engineering
 
 ### Class 2 - Stakeholder Interaction and Soft Skills
+* Stakeholder Interaction Exercise
 #### __FINAL SPRINT ENDS - FINAL DELIVERABLE DUE__
 
 ## WEEK 12
