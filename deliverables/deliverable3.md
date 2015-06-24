@@ -19,6 +19,8 @@ Up to one fifth (20%) of the grade will consist of marks from your fellow team m
 
 If people in a group report disparities, I will assume that the git commit history holds the truth and will investigate.  At this point, I will grade people separately based on what I see in the git commit history.  Remember that I will be able to see who committed what to the repository so please commit under your own username!  For this reason, you should probably commit the final reports as well (although I will still expect a printed out copy).
 
+AS A SPECIAL NOTE - if __no__ work was done by a particular person, I reserve the right to give that person a 0 for the entire sprint.
+
 ## Format
 
 For the first sprint, you will turn in:
