@@ -93,8 +93,9 @@ __MIDTERM__
 #### __READING: McConnell, Chapters 33 - 34__
 * Writing good code - maintainable, testable, etc.
 
-### Class 2 - Design Patterns and Common Threads
-* "Gang of Four" classic design patterns
+### Class 2 - Using Design Patterns and Threads
+* Using "Gang of Four" classic design patterns
+* Multi-threaded Programming
 
 ## WEEK 9
 
