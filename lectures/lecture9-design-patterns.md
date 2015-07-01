@@ -71,7 +71,7 @@ public class Bird {
 
 }
 
-public class Duck extend Bird {
+public class Duck extends Bird {
 
     @Override
     protected BirdNoise getBirdNoise() {

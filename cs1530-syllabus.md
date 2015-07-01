@@ -94,6 +94,7 @@ __MIDTERM__
 * Writing good code - maintainable, testable, etc.
 
 ### Class 2 - Using Design Patterns and Threads
+#### ___READING: Freeman/Pryce, Chapters 26 - 27__
 * Using "Gang of Four" classic design patterns
 * Multi-threaded Programming
 
