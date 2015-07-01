@@ -2,8 +2,13 @@
 
 ### What Is A Thread?  Why Do We Use Them?
 
-* Like a process within a process; a flow of execution inside a program.
+* Like a process within a process (a lightweight process); a flow of execution inside a program.
+  * Processes are self-contained execution environments, including allocated memory space
+  * Process communicate via IPC (inter-process communication) measures such as pipes and sockets
+  * Not an application - an application may be many different processes (e.g. Chrome tabs)
+  * Every process has at least one thread
   * However, threads can share state (access/modify same variables, for instance)
+  * Super-duper efficient!
 
 * Let's say you have two threads operating on a single processor.
   * Thread1 operations indicated by 1's, Thread2 by 2's
@@ -26,6 +31,11 @@ time -------------------------------->
 
 ### How Do Threads Work in Java?
 
+* There are two kinds of threads
+  * Green threads: controlled by the runtime library or virtual machine
+  * OS threads: controlled by the operating system
+  * Unless you are using Java 1.1, you are probably using OS threads
+
 * There are lots of threads in ANY Java program, most of which you are not aware of
   * Garbage collection
   * Signal listener
@@ -34,6 +44,11 @@ time -------------------------------->
 * Threads are Runnables, they have a .run() method
   * Start them by calling .start(), which executes .run() on a new thread
   * Note that there are other Runnable things other than threads!
+  * Theoretically, you could just extend Thread instead of making a thread and passing it a Runnable - this is frowned upon (much less flexible)
+  * Threads can sleep with `Thread.sleep(n)` where n is number of milliseconds to sleep
+  * Threads can be woken up with interruptions - call the interrupt() method on a Thread object - ultra-simple inter-thread communications
+  * You can use thread.join() to pause execution until thread is done
+  * Remember that you always have one user thread (main!) to start with
 
 ```java
 public class ThreadTest {
@@ -101,6 +116,9 @@ public void incrementFoo() {
   * Should have been 2!
   * This is a critical section - a part of the code that should not be concurrently executed by two different threads.  
   * Requires mutual exclusion of access
+  * Another way of thinking about it, atomic access
+    * Atomic access - from a logical perspective, everything happens at once
+  * `volatile` variables - specify that a value may change between accesses, even if not in this thread - prevents optiization
 
 * Quick way to avoid - use synchronized
 ```java
@@ -183,6 +201,18 @@ public void incrementFoo() {
     * Make sure you give up resources when done, or add a timeout to return to pool
     * Allow threads to do work without resources
 
+### Testing
+  * It's really hard, especially in unit tests
+  * Oftentimes, errors can be "swallowed up" because they are happening in another thread - all you see is a timeout or deadlock
+  * You can check aspects of it, such as ensuring that a state is locked
+  * Systems-level tests
+    * Going to be coarse-grained
+    * Will help you find problems, still need to track them down
+  * Stress tests
+    * Run multiple threads
+    * Tune the stress test until you get it to fail consistently
+    * Make test pass by modifying code
+  
 ### How To Avoid Threading Problems In General
 
 * If you don't need to use threads, don't.
@@ -191,7 +221,11 @@ public void incrementFoo() {
   * Use already-existing frameworks (e.g. AtomicObject, java.util.concurrent stuff, ConcurrentHashMap, etc.)
   * Start baking in concurrency at beginning of development, not the end
   * Design for concurrency
-  * Avoid mutable state!  Make variables final!  Share only when necessary!
+  * Avoid mutable state!  
+  * Make variables final!
+  * Share only when necessary!
+  * Is Java the right language to be doing this in?  
+    * Erlang, Clojure, etc.?
 
 ### Further Reading
 
