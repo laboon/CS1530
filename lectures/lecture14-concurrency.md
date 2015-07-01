@@ -230,3 +230,5 @@ public void incrementFoo() {
 ### Further Reading
 
 * Read _Java Concurrency in Practice_ by Brian Goetz.
+* Read _Java Tutorial on Concurrency__: http://docs.oracle.com/javase/tutorial/essential/concurrency/index.html
+  * Especially the section about High Level Concurrency objects: http://docs.oracle.com/javase/tutorial/essential/concurrency/highlevel.html
