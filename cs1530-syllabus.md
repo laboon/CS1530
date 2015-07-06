@@ -101,6 +101,7 @@ __MIDTERM__
 ## WEEK 9
 
 ### Class 1 - Software Maintenance, Evolution, and Refactoring
+#### __READING: McConnell, Chapter 24__
 
 ### Class 2 - Legacy Code and Large Systems
 #### THIRD SPRINT ENDS, FINAL SPRINT STARTS
@@ -110,7 +111,8 @@ __MIDTERM__
 ### Class 1 - Designing Secure Software
 * Secure Software Class Exercise
 
-### Class 2 - Project and Product Management
+### Class 2 - Designing Performant Software
+#### __READING: McConnell, Chapter 25 - 26__
 
 ## WEEK 11
 
