@@ -104,6 +104,8 @@ __MIDTERM__
 #### __READING: McConnell, Chapter 24__
 
 ### Class 2 - Legacy Code and Large Systems
+#### __OPTIONAL READING: Working Effectively With Legacy Code by Michael Feathers (http://www.objectmentor.com/resources/articles/WorkingEffectivelyWithLegacyCode.pdf)__
+#### __OPTIONAL READING: Testable Java by Michael Feathers (http://www.objectmentor.com/resources/articles/TestableJava.pdf)__
 #### THIRD SPRINT ENDS, FINAL SPRINT STARTS
 
 ## WEEK 10
@@ -117,6 +119,7 @@ __MIDTERM__
 ## WEEK 11
 
 ### Class 1 - Case Study: Trade-Offs in Software Engineering
+* In-class discussion: trade-offs made in your project
 
 ### Class 2 - Stakeholder Interaction and Soft Skills
 * Stakeholder Interaction Exercise
