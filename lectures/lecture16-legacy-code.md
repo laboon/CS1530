@@ -199,7 +199,10 @@ public class OldStuff {
   * Identifying seams - places where you can make changes without modifying code
   * Or inflection points - places where code changes are localized, not going to cause problems elsewhere
   * Move TUFs (test-unfriendly features) out of TUCs (test-unfriendly constructs)
-  
+    * What are TUFs? Things that are hard to test
+      * Database connections, file I/O, network interfaces, etc.
+    * What are TUCs?  Areas it's hard to test things in
+      * Constructors, destructors, final methods, static methods, private methods..
 
 * Further reading: 
   * Essay, "Working Effectively with Legacy Code" by Michael Feathers. http://www.objectmentor.com/resources/articles/WorkingEffectivelyWithLegacyCode.pdf
