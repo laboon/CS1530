@@ -5,7 +5,7 @@ Summer Semester 2015
 
 ## Deliverable 4
 
-For the third sprint, each group will finish up implementing user stories, and especially making tough choices when determining what can be done in time, and what cannot.  You will also turn in several other reports - see the Format section, below.  Finally, you will prepare a ~10 minute presentation discussing your project.
+For the fourth and final sprint, each group will finish up implementing user stories, and make tough choices when determining what can be done in time, and what cannot.  You will also turn in several other reports - see the Format section, below.  Finally, you will prepare a ~10 minute presentation discussing your project.
 
 From a code perspective, you will be doing exactly what you did for last sprint.  Remember to keep doing code reviews!
 
