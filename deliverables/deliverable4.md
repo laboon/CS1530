@@ -23,7 +23,7 @@ AS A SPECIAL NOTE - if __no__ work was done by a particular person, I reserve th
 
 ## Format
 
-For the first sprint, you will turn in:
+For this sprint, you will turn in:
 
 1. A cover page, in the format described below
 1. An approximately one or two page description of what was accomplished this sprint.  This should include __at least__ the following details, but you may provide more:
@@ -43,6 +43,12 @@ Format for cover page:
 * The names of the people in the group, and their git usernames
 * The date that it is due (22 JULY 2015)
 * The title "CS 1530 - SPRINT 4 DELIVERABLE"
+
+Your presentation may be done by a single member of the group or multiple people.  It should be approximately ten minutes long and cover:
+1. What your project is (problem it is solving, major functionality)
+2. What your process was like (e.g. did you use Slack? in-person meetings? whatever you thought might be different from other groups, or how your process changed)
+3. Any major challenges you faced
+3. Anything else you learned or would like to share
 
 ## Grading
 
