@@ -35,7 +35,8 @@
   * Kinda like picking out user stories
 
 * Example: The landing software for Apollo 11's AGC (Apollo Guidance Computer)
-  * Virtual AGC http://www.ibiblio.org/apollo/index.html
+  * Virtual AGC info - http://www.ibiblio.org/apollo/index.html
+  * AGC UI interface - http://svtsim.com/moonjs/agc.html
   * https://www.linux.com/news/software/developer/29068-apollo-11-story
   * Trade-off: using ICs or tried-and-true technology?
   * New Horizons trade-offs: using 12 MHz radiation-hardened processor or latest proc?
