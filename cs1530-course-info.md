@@ -3,11 +3,11 @@ Software Engineering
 
 ## Course Information
 
-**Taught by:** Bill Laboon (Email: bill@billlaboon.com (fast) or bill.laboon@pitt.edu (slow))  
+**Taught by:** Bill Laboon (bill.laboon@pitt.edu)  
 
-**Professor's Office Hours:** SENSQ 6148, MW 1:30-2:30pm, or by appointment.  I can usually be on campus during the day, but require advance notice.  Office hours subject to change based on student feedback.
+**Professor's Office Hours:** SENSQ 6305, T/H 5:00-6:00 PM and W 12:00-1:00 PM , or by appointment.  
 
-**Class Time:** MW 2:30 PM -3:50 PM
+**Class Time:** TH 11:00 AM - 12:15 PM
 **Room:** SENSQ 5129
 
 **Class GitHub repo:** https://www.github.com/laboon/cs1530  
@@ -25,15 +25,16 @@ This course provides students with a broad understanding of modern software engi
 
 ## Grading
 
-* Mid-term Exam - 10%
+* Mid-term Exam - 15%
 * Final Exam - 15%
 * Group Project:
   * Sprint 1 Deliverable - 10%
   * Sprint 2 Deliverable - 10% 
   * Sprint 3 Deliverable - 10%
+  * Sprint 4 Deliverable - 10%
   * Final Deliverable - 20%
-* Class Participation - 15% (incl. Exercises)
-* Lightning Talk - 10%
+* Class Participation - 5% (incl. Exercises)
+* Lightning Talk - 5%
 
 It is strongly recommended that you come to class each for each lecture.  Material may be presented or covered in class that is not in the reading.  I also expect active participation in class (there will be various projects done in class).
 
