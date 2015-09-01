@@ -42,7 +42,7 @@ The Mythical Man-Month is available online at the Internet Archive: [https://arc
 
 ### Class 2 - Lightning Talk Day 1
 
-## WEEK 5
+## WEEK 5 (28 Sep)
 
 ### Class 1 - Introduction to Test-Driven Development (TDD)
 #### __Reading: Freeman/Pryce, Chapters 1 - 3__
@@ -59,19 +59,18 @@ The Mythical Man-Month is available online at the Internet Archive: [https://arc
 * Top-down vs bottom-up
 * Architecture Models (simple, layered, client-server, n-tier, Big Ball of Mud, etc.)
 
-## WEEK 5
+## WEEK 6 (5 Oct)
 
 ### Class 1 - Object-Oriented Analysis and Design
 * Breaking down a project into objects
 * Design patterns
 
 ### Class 2 - Object-Oriented Analysis and Design (cont'd), Documentation
-#### __SPRINT 1 ENDS, SPRINT 2 STARTS__
 * Writing proper technical documentation
 * When is it necessary?  When is it more trouble than it's worth?
 * Making Architetural Diagrams
 
-## WEEK 6
+## WEEK 7 (12 Oct)
 
 ### Class 1
 __MIDTERM__
@@ -81,61 +80,68 @@ __MIDTERM__
 * Classical models of integration
 * Continuous Integration
 
-## WEEK 7
+## WEEK 7 (19 Oct)
 
-### Class 1 - Quality Assurance and Quality Software
+### Class 2 - Quality Assurance and Quality Software
 #### __READING: McConnell, Chapters 20 - 23__
 * The QA process and why it is important
 
 ### Class 2 - Quality Assurance and Quality Software, Cont'd.
-#### __SECOND SPRINT ENDS, THIRD SPRINT STARTS__
 * QA implementation as part of the SDLC
 
-## WEEK 8
+## WEEK 8 (26 Oct)
 
 ### Class 1 - Software Craftsmanship
 #### __READING: McConnell, Chapters 33 - 34__
 * Writing good code - maintainable, testable, etc.
 
-### Class 2 - Using Design Patterns and Threads
+### Class 2 - Lightning Talks Day 2
+
+## WEEK 9 (2 Nov)
+
+### Class 1 - Using Design Patterns and Threads
 #### ___READING: Freeman/Pryce, Chapters 26 - 27__
 * Using "Gang of Four" classic design patterns
 * Multi-threaded Programming
 
-## WEEK 9
-
-### Class 1 - Software Maintenance, Evolution, and Refactoring
+### Class 2 - Software Maintenance, Evolution, and Refactoring
 #### __READING: McConnell, Chapter 24__
 
-### Class 2 - Legacy Code and Large Systems
-#### __OPTIONAL READING: Working Effectively With Legacy Code by Michael Feathers (http://www.objectmentor.com/resources/articles/WorkingEffectivelyWithLegacyCode.pdf)__
-#### __OPTIONAL READING: Testable Java by Michael Feathers (http://www.objectmentor.com/resources/articles/TestableJava.pdf)__
-#### THIRD SPRINT ENDS, FINAL SPRINT STARTS
-
-## WEEK 10
+## WEEK 10 (9 Nov)
 
 ### Class 1 - Designing Secure Software
+
+### Class 2 - Designing Secure Software, cont'd.
 * Secure Software Class Exercise
 
-### Class 2 - Designing Performant Software
+## WEEK 11 (16 Nov)
+
+### Class 1 - Designing Performant Software
 #### __READING: McConnell, Chapter 25 - 26__
 
-## WEEK 11
+### Class 2 - Lightning Talks Day 3
+
+## WEEK 12 (23 Nov)
+
+### Class 1 - Legacy Code and Large Systems
+#### __OPTIONAL READING: Working Effectively With Legacy Code by Michael Feathers (http://www.objectmentor.com/resources/articles/WorkingEffectivelyWithLegacyCode.pdf)__
+#### __OPTIONAL READING: Testable Java by Michael Feathers (http://www.objectmentor.com/resources/articles/TestableJava.pdf)__
+
+### Class 2 - NO CLASS, THANKSGIVING
+
+## WEEK 13 (30 Nov)
 
 ### Class 1 - Case Study: Trade-Offs in Software Engineering
+
+### Class 2 - Trade-offs, cont'd.
 * In-class discussion: trade-offs made in your project
 
-#### __FINAL SPRINT ENDS - FINAL DELIVERABLE DUE__
-
-## WEEK 12
-
-## WEEK 13
-
-## WEEK 14
+## WEEK 14 (7 Dec)
 
 ### Class 1 - Project Presentations
 * Each group will present their project to the rest of the class
 
-### Class 2 - Final class
+### Class 2 - Project Presentation, cont'd.
+
 #### __FINAL__
 * Final is __cumulative__
