@@ -5,7 +5,12 @@ Software Engineering
 
 **Taught by:** Bill Laboon (bill.laboon@pitt.edu)  
 
-**Professor's Office Hours:** SENSQ 6305, T/H 5:00-6:00 PM and W 12:00-1:00 PM , or by appointment.  
+**Professor's Office Hours:**
+
+* SENSQ 6305
+* T/H 5:00-6:00 PM
+* W 12:00-1:00 PM
+* ...or by appointment.  
 
 **Class Time:** TH 11:00 AM - 12:15 PM
 **Room:** SENSQ 5129
@@ -13,11 +18,11 @@ Software Engineering
 **Class GitHub repo:** https://www.github.com/laboon/cs1530  
 
 **Required Texts:** 
-Growing Object-Oriented Software, Guided by Tests.  Authors: Steve Freeman and Nat Pryce. ISBN 9780321503626
+* Growing Object-Oriented Software, Guided by Tests.  Authors: Steve Freeman and Nat Pryce. ISBN 9780321503626
 
-Code Complete (Second Edition). Author: Steve McConnell. ISBN 0790145196705
+* Code Complete (Second Edition). Author: Steve McConnell. ISBN 0790145196705
 
-Online essays/articles will also be assigned.
+* Online essays/articles will also be assigned.
 
 **
 
@@ -84,10 +89,10 @@ without clearing it first with the instructor will result in a 0
 
 Students will be grouped into groups of 4 or 5, and will work on a project of their choosing (authorized by the instructor) for the duration of the course.  There will be several sprints, at the end of each of which the students will have a working version of their software available on Github, as well as documentation and other information (specified for each particular sprint).
 
-Deliverables must be committed to Github by the beginning of class on the day that it is due.  Late deliverables will NOT be accepted unless authorized __at least 24 hours before the due date__.
+Deliverables must be committed to GitHub by the beginning of class on the day that it is due.  Late deliverables will NOT be accepted unless authorized __at least 24 hours before the due date__.
 
 ## Lightning Talk
-All students will give a 5 minute presentation on an aspect of software engineering not covered by the course.  This should be something relevant and not familiar to other students in the class.  The talk should be aimed at peers; it is not to be an academic paper, but a way of explaining something interesting to the class.
+All students will give a 5 minute presentation on an aspect of software engineering not covered by the course.  This should be something relevant and not familiar to other students in the class.  The talk should be aimed at peers; it is not to be an academic paper, but a way of explaining something interesting to the class.  There will be signup times that you can add yourself to by issuing a PR to the repo.  If somebody beats you to a time, you will have to select a new time, so check any pending PRs first!
 
 Good examples include:
 * An interesting algorithm
