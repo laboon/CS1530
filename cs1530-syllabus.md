@@ -27,6 +27,8 @@ The Mythical Man-Month is available online at the Internet Archive: [https://arc
 * Waterfall (BDUF), prototyping, incremental, RAD, UP, "Cowboy coding", Agile
 * Our Methodology: Agile/Scrum with TDD
 
+### SPECIAL - Professor Laboon's 15-Minute Guide To Git
+
 ## WEEK 3 (14 Sep)
 
 ### Class 1 - Agile Development: Theory and Practice
