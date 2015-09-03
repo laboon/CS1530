@@ -16,9 +16,10 @@ The Mythical Man-Month is available online at the Internet Archive: [https://arc
 ### Class 2 - Overview: Designing a Software Product
 #### __Reading: Brooks, "The Tar Pit" and Brooks, "The Mythical Man-Month" (just the essay, not the entire book)__
 #### __ASSIGNED: Group/Project Selection and Lightning Talk Selection__
+* Why is this difficult?
 * Overview of the Software Development Life Cycle
-* Cathedral and the Bazaar
 * What goes into a software product aside from code?
+
 
 ## WEEK 2 (7 Sep)
 
