@@ -8,5 +8,6 @@
 ## Leonard Aronson
 
 * Adhyaksa Pribadi
+* Emily Crabb
 
 ## Day 3 (Thu 19 NOV)
