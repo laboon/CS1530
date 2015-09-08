@@ -8,5 +8,6 @@
 ## Leonard Aronson
 
 * Adhyaksa Pribadi
+* Ian Leonard
 
 ## Day 3 (Thu 19 NOV)
