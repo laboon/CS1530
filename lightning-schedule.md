@@ -3,7 +3,7 @@
 ## Day 1 (Thu 24 SEP)
 
 * Snoopy Snooperson
-
+* Evan Alexander
 ## Day 2 (Thu 29 OCT)
 ## Leonard Aronson
 
