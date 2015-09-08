@@ -5,6 +5,7 @@
 * Snoopy Snooperson
 
 ## Day 2 (Thu 29 OCT)
+## Leonard Aronson
 
 * Adhyaksa Pribadi
 
