@@ -10,3 +10,5 @@
 * Adhyaksa Pribadi
 
 ## Day 3 (Thu 19 NOV)
+
+*Louis Seefeld
