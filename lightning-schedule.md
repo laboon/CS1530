@@ -4,4 +4,6 @@
 
 ## Day 2 (Thu 29 OCT)
 
+* Adhyaksa Pribadi
+
 ## Day 3 (Thu 19 NOV)
