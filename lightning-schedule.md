@@ -6,8 +6,8 @@
 * David Slayback
 
 ## Day 2 (Thu 29 OCT)
-## Leonard Aronson
 
+* Leonard Aronson
 * Adhyaksa Pribadi
 * Jiajie Dang
 
