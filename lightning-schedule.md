@@ -10,6 +10,7 @@
 * Leonard Aronson
 * Adhyaksa Pribadi
 * Jiajie Dang
+* Daniel Blackford
 
 ## Day 3 (Thu 19 NOV)
 
