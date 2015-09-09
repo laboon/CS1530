@@ -15,3 +15,4 @@
 
 * Daniel Kindler
 * Xiaokai Wang
+* Zane Hernandez
