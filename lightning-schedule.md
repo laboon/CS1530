@@ -8,6 +8,7 @@
 ## Leonard Aronson
 
 * Adhyaksa Pribadi
+* Jiajie Dang
 
 ## Day 3 (Thu 19 NOV)
 * Daniel Kindler
