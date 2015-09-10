@@ -20,6 +20,7 @@
 * Emily Crabb
 * Fei Yu
 * Domonic Milesi
+* James Arnold
 
 ## Day 3 (Thu 19 NOV)
 
