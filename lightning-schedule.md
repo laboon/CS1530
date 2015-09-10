@@ -8,6 +8,7 @@
 * Nate Dorman
 * Jake Stambaugh
 * Matthew Schnur
+* Christopher Price 
 
 ## Day 2 (Thu 29 OCT)
 
