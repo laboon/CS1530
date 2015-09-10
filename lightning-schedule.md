@@ -7,6 +7,7 @@
 * Luke Nosbisch
 * Nate Dorman
 * Jake Stambaugh
+* Matthew Schnur
 
 ## Day 2 (Thu 29 OCT)
 
