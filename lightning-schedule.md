@@ -6,6 +6,7 @@
 * David Slayback
 
 ## Day 2 (Thu 29 OCT)
+* Michael Faller
 
 * Leonard Aronson
 * Adhyaksa Pribadi
