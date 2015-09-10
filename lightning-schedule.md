@@ -22,6 +22,7 @@
 * Fei Yu
 * Domonic Milesi
 * James Arnold
+* William Rossi ("Jamie")
 
 ## Day 3 (Thu 19 NOV)
 
