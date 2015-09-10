@@ -37,3 +37,4 @@
 * Zane Hernandez
 * Aditya Mahadevan
 * Bob Colleran
+* Samuel Kearns
