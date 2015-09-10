@@ -66,8 +66,6 @@
 
 * Allows more precise estimating (since less far in the future)
 
-* Allows
-
 * Drawbacks
   * Extra time and effort
   * Not as much dedided up-front
