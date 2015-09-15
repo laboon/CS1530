@@ -7,6 +7,8 @@
 * Luke Nosbisch
 * Nate Dorman
 * Jake Stambaugh
+* Matthew Schnur
+* Christopher Price 
 
 ## Day 2 (Thu 29 OCT)
 
@@ -20,6 +22,8 @@
 * Emily Crabb
 * Fei Yu
 * Domonic Milesi
+* James Arnold
+* William Rossi ("Jamie")
 
 ## Day 3 (Thu 19 NOV)
 
@@ -34,3 +38,4 @@
 * Zane Hernandez
 * Aditya Mahadevan
 * Bob Colleran
+* Samuel Kearns
