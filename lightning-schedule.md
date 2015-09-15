@@ -9,6 +9,13 @@
 * Jake Stambaugh
 * Matthew Schnur
 * Christopher Price 
+* Philip Washy
+* Evan Alexander
+* Ching, Ryan
+* Yiran Lin
+* Arjun Mukherjee
+* Aaron Noll
+* Hugh Pedley
 
 ## Day 2 (Thu 29 OCT)
 
@@ -24,6 +31,8 @@
 * Domonic Milesi
 * James Arnold
 * William Rossi ("Jamie")
+* Daniel Blackford
+* Mengqi Wu
 
 ## Day 3 (Thu 19 NOV)
 
