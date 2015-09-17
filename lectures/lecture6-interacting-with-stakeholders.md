@@ -90,3 +90,5 @@
   * Everybody has different skills and deserves to be treated with respect
   * No "you haven't done X?"
   * No "you don't know what a quantum defrobulator does?"
+
+(see Chapter 21 of AFIST for more info - https://github.com/laboon/software-testing)
