@@ -36,12 +36,12 @@ The Mythical Man-Month is available online at the Internet Archive: [https://arc
 #### __Reading: "Manifesto for Agile Software Development", http://agilemanifesto.org/
 * Terminology - Sprints, scrums, kanban, retrospective, etc.
 
-### Class 2 - GUEST LECTURE - story selection (Nivia Henry)
+### Class 1 - Interacting with Stakeholders
+  * EXERCISE: Stakeholder interaction
 
 ## WEEK 4 (21 Sep)
 
-### Class 1 - Interacting with Stakeholders
-  * EXERCISE: Stakeholder interaction
+### Class 1 - GUEST LECTURE - Product Development (Nivia Henry)
 
 ### Class 2 - Lightning Talk Day 1
 
