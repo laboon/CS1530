@@ -7,7 +7,6 @@
 * Luke Nosbisch
 * Nate Dorman
 * Jake Stambaugh
-* Matthew Schnur
 * Christopher Price 
 * Philip Washy
 * Evan Alexander
@@ -48,3 +47,5 @@
 * Aditya Mahadevan
 * Bob Colleran
 * Samuel Kearns
+* Matthew Schnur
+
