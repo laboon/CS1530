@@ -33,7 +33,9 @@ For the first sprint, you will turn in:
 
 Each of these sections shall be CLEARLY MARKED (i.e. they should each have titles and start on their own page).
 
-Remember that your main goal is to deliver a working version of the software (i.e., can be compiled and executed on any individual member's computer).  If I have any questions on the code, I may ask *any* individual member to show me the code running on their computer.  Therefore, if anyone has a problem running the current version of the code, that fact needs to be included as a defect.  Failure to have a working version of the project at end of sprint may mean a drastically lower score for the individual component of the project.
+Remember that your main goal is to deliver a working version of the software (i.e., can be compiled and executed on any individual member's computer).  Think about that when planning and prioritizing!  I recommend that you meet today or at the latest, tomorrow, for a sprint planning meeting.  At this point, you can apportion responsibilities, agree on the story ordering, etc.
+
+If I have any questions on the code, I may ask *any* individual member to show me the code running on their computer.  Therefore, if anyone has a problem running the current version of the code, that fact needs to be included as a defect.  Failure to have a working version of the project at end of sprint may mean a drastically lower score for the individual component of the project.
 
 #### Format for cover page:
 
