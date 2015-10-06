@@ -57,52 +57,58 @@ The Mythical Man-Month is available online at the Internet Archive: [https://arc
 ### Class 1 - Software Engineering with TDD
 #### __Reading: Freeman/Pryce, Chapters 4 - 6__
 
+## WEEK 6 (5 Oct)
+
 ### Class 2 - Software Design
 #### __Reading: McConnell, Chapters 4 -5 and Freeman/Pryce, Chapter 7__
 * Top-down vs bottom-up
 * Architecture Models (simple, layered, client-server, n-tier, Big Ball of Mud, etc.)
 
-## WEEK 6 (5 Oct)
-
 ### Class 1 - Object-Oriented Analysis and Design
 * Breaking down a project into objects
 * Design patterns
 
-### Class 2 - Object-Oriented Analysis and Design (cont'd), Documentation
-* Writing proper technical documentation
-* When is it necessary?  When is it more trouble than it's worth?
-* Making Architetural Diagrams
 
 ## WEEK 7 (12 Oct)
 
 ### Class 1
 __MIDTERM__
+
+### Class 2
 * Pair Programming Exercise
+
+## WEEK 7 (19 Oct)
+
+### Class 1 - Object-Oriented Analysis and Design (cont'd), Documentation
+* Writing proper technical documentation
+* When is it necessary?  When is it more trouble than it's worth?
+* Making Architetural Diagrams
 
 ### Class 2 - Integration and the Software Pipeline
 * Classical models of integration
 * Continuous Integration
 
-## WEEK 7 (19 Oct)
+## WEEK 8 (26 Oct)
 
 ### Class 2 - Quality Assurance and Quality Software
 #### __READING: McConnell, Chapters 20 - 23__
 * The QA process and why it is important
 
-### Class 2 - Quality Assurance and Quality Software, Cont'd.
-* QA implementation as part of the SDLC
-
-## WEEK 8 (26 Oct)
-
-### Class 1 - Software Craftsmanship
-#### __READING: McConnell, Chapters 33 - 34__
-* Writing good code - maintainable, testable, etc.
-
 ### Class 2 - Lightning Talks Day 2
 
 ## WEEK 9 (2 Nov)
 
-### Class 1 - Using Design Patterns and Threads
+### Class 1 - Quality Assurance and Quality Software, Cont'd.
+* QA implementation as part of the SDLC
+
+
+### Class 2 - Software Craftsmanship
+#### __READING: McConnell, Chapters 33 - 34__
+* Writing good code - maintainable, testable, etc.
+
+## WEEK 10 (9 Nov)
+
+### Class 1 - Using Design Patterns
 #### ___READING: Freeman/Pryce, Chapters 26 - 27__
 * Using "Gang of Four" classic design patterns
 * Multi-threaded Programming
@@ -110,18 +116,11 @@ __MIDTERM__
 ### Class 2 - Software Maintenance, Evolution, and Refactoring
 #### __READING: McConnell, Chapter 24__
 
-## WEEK 10 (9 Nov)
-
-### Class 1 - Designing Secure Software
-
-### Class 2 - Designing Secure Software, cont'd.
-* Secure Software Class Exercise
-
 ## WEEK 11 (16 Nov)
 
-### Class 1 - Designing Performant Software
-#### __READING: McConnell, Chapter 25 - 26__
-
+### Class 1 - Exercise
+  * Secure Software
+  
 ### Class 2 - Lightning Talks Day 3
 
 ## WEEK 12 (23 Nov)
@@ -134,10 +133,10 @@ __MIDTERM__
 
 ## WEEK 13 (30 Nov)
 
-### Class 1 - Case Study: Trade-Offs in Software Engineering
+### Class 1 - Trade-Offs in Software Engineering
 
-### Class 2 - Trade-offs, cont'd.
-* In-class discussion: trade-offs made in your project
+### Class 2
+  * Trade-off Exercise
 
 ## WEEK 14 (7 Dec)
 
