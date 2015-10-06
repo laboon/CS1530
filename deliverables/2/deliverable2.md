@@ -27,7 +27,7 @@ For the first sprint, you will turn in:
   1. Challenges writing the code or tests
   1. Design patterns or architectural patterns used
   1. Anything else that might be of interest
-3. User stories completed this sprint, and a link to the code on GitHub
+3. User stories completed this sprint, and a *link to the code on GitHub*
 4. Details on why you decided on those user stories
 5. A list of any defects found by testing, and how they were discovered and fixed (or if not fixed, why you decided not to prioritize them). This can include defects found by unit testing or system testing by QA (or other methods, such as issues found by the customer). If no defects were found, then please write a paper on how you have developed a way to develop software without making any mistakes, because I would be happy to read it!
 
