@@ -100,9 +100,13 @@
 * The General Principle of Software Quality
   * In the long run, writing quality software is free due to the time saved in development
   * In the short run, seems more expensive
-  * Numerous studies have shown that time/resources saved by producing quality software more than make up for etra time
+  * Numerous studies have shown that time/resources saved by producing quality software more than make up for extra time (for larger products)
     * Why?  Better code, fewer defects, defects fixed sooner
-
+  * Read some Paul Graham - sometimes better to put out something and iterate
+    * When your "customer" is lots of people - e.g. Facebook, Dropbox, etc.
+    * "If you're not embarrassed by your first version, you waited too long to ship"
+    * Side note: Graham wrote some very interesting, thought-provoking articles on software engineering earlier in his career (now it's mostly marketing).  See "Why Arc Isn't Especially Object-Oriented" ( http://www.paulgraham.com/noop.html ), "Java's Cover" ( http://www.paulgraham.com/javacover.html ), and "Beating the Averages" ( http://www.paulgraham.com/avg.html ).  All are over a decade old, but very relevant.
+    
 * When to do quality assurance?
   * ASAP
   * Earlier that a defect is caught, earlier and cheaper it can be fixed  
