@@ -90,52 +90,51 @@ __MIDTERM__
 
 ## WEEK 8 (26 Oct)
 
-### Class 2 - Quality Assurance and Quality Software
-#### __READING: McConnell, Chapters 20 - 23__
-* The QA process and why it is important
 
 ### Class 2 - Lightning Talks Day 2
 
 ## WEEK 9 (2 Nov)
 
-### Class 1 - Quality Assurance and Quality Software, Cont'd.
+### Class 1 - Quality Assurance and Quality Software
+#### __READING: McConnell, Chapters 20 - 23__
+* The QA process and why it is important
+* Code Reviews
+
+### Class 2 - Quality Assurance and Quality Software, Cont'd.
 * QA implementation as part of the SDLC
 
+## WEEK 10 (9 Nov)
+
+### Class 1 - Exercise
+  * Git 911
 
 ### Class 2 - Software Craftsmanship
 #### __READING: McConnell, Chapters 33 - 34__
 * Writing good code - maintainable, testable, etc.
 
-## WEEK 10 (9 Nov)
+## WEEK 11 (16 Nov)
 
 ### Class 1 - Using Design Patterns
 #### ___READING: Freeman/Pryce, Chapters 26 - 27__
 * Using "Gang of Four" classic design patterns
 * Multi-threaded Programming
-
-### Class 2 - Software Maintenance, Evolution, and Refactoring
-#### __READING: McConnell, Chapter 24__
-
-## WEEK 11 (16 Nov)
-
-### Class 1 - Exercise
-  * Secure Software
   
 ### Class 2 - Lightning Talks Day 3
 
 ## WEEK 12 (23 Nov)
 
-### Class 1 - Legacy Code and Large Systems
-#### __OPTIONAL READING: Working Effectively With Legacy Code by Michael Feathers (http://www.objectmentor.com/resources/articles/WorkingEffectivelyWithLegacyCode.pdf)__
-#### __OPTIONAL READING: Testable Java by Michael Feathers (http://www.objectmentor.com/resources/articles/TestableJava.pdf)__
+### Class 2 - Software Maintenance, Evolution, and Refactoring
+#### __READING: McConnell, Chapter 24__
 
 ### Class 2 - NO CLASS, THANKSGIVING
 
 ## WEEK 13 (30 Nov)
 
-### Class 1 - Trade-Offs in Software Engineering
+### Class 1 - Legacy Code and Large Systems
+#### __OPTIONAL READING: Working Effectively With Legacy Code by Michael Feathers (http://www.objectmentor.com/resources/articles/WorkingEffectivelyWithLegacyCode.pdf)__
+#### __OPTIONAL READING: Testable Java by Michael Feathers (http://www.objectmentor.com/resources/articles/TestableJava.pdf)__
 
-### Class 2
+### Class 2 - Trade-Offs in Software Engineering
   * Trade-off Exercise
 
 ## WEEK 14 (7 Dec)
