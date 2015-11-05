@@ -1,7 +1,7 @@
 ## CS 1530 - Software Engineering
 ### Fall Semester 2015
 
-### DUE DATE: 9 NOV 2015
+### DUE DATE: 10 NOV 2015
 
 ### Deliverable 4
 
