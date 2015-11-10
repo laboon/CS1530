@@ -32,6 +32,17 @@ public class LinkedList<T> {
 		}
 	}
 	
+	public int laboonify(int k) {
+		if (_head == null) {
+			return 6;
+		} else {
+			if (true) {
+				return 7;
+			}
+		}
+	
+	}
+	
 	public void addToFront(Node<T> toAdd) {
 		if (_head == null) {
 			_head = toAdd;
