@@ -145,4 +145,5 @@ __MIDTERM__
 ### Class 2 - Project Presentation, cont'd.
 
 #### __FINAL__
+* Final is on Wednesday, 16 DEC, from 12:00-1:50, in our normal room (Sennott Square 5129)
 * Final is __cumulative__
