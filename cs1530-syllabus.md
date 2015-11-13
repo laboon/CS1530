@@ -123,8 +123,7 @@ __MIDTERM__
 
 ## WEEK 12 (23 Nov)
 
-### Class 2 - Software Maintenance, Evolution, and Refactoring
-#### __READING: McConnell, Chapter 24__
+
 
 ### Class 2 - NO CLASS, THANKSGIVING
 
