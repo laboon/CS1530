@@ -90,6 +90,7 @@ __MIDTERM__
 
 ## WEEK 8 (26 Oct)
 
+### Class 1 - NO CLASS (Fall Break)
 
 ### Class 2 - Lightning Talks Day 2
 
@@ -123,7 +124,7 @@ __MIDTERM__
 
 ## WEEK 12 (23 Nov)
 
-
+### Class 1 - Guest Lecture - Casey West, Principal Technologist, Pivotal Software
 
 ### Class 2 - NO CLASS, THANKSGIVING
 
