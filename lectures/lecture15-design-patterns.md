@@ -51,12 +51,6 @@ public class ProfessorLaboon {
 }
 ```
 
-or
-
-```
-
-```
-
   * Drawbacks: 
     * Can often just use static methods
     * Worries about thread safety
@@ -107,11 +101,8 @@ class BirdFactory {
   * Dynamically decorate an object from its base
   * Generates a new decorated object
 
-```java
-
-
-
-
+```
+SEE DECORATORDEMO.JAVA IN SAMPLE_CODE DIRECTORY
 ```
 
 1. Pool
