@@ -61,16 +61,6 @@ __The final is cumulative.  Everything we have discussed in class or in the read
     * Inflection points
   * Sprout and wrapper methods/classes
 
-7. Designing Secure Software
-  * Why is writing secure software difficult?
-  * Name the three elements of the InfoSec triad
-  * Understand difference between vulnerability and exploit
-  * Understand different kinds of vulnerabilities, esp.
-    * Injection attacks
-    * XSS (cross-site scripting)
-    * Buffer overruns
-    * Social engineering
-
 8. Design Patterns
   * Be sure to understand all of the design patterns mentioned in the Design Patterns lecture
 
